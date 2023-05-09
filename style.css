@@ -1,0 +1,14 @@
+*{
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    font-size: 14px;
+    background-color: pink;
+    color: #404040
+}
+
