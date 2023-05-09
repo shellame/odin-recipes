@@ -1,0 +1,32 @@
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1{
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.para{
+    font-size: 14px;
+    color: #4d0019
+}
+
+.bullets{
+    font-size: 12px;
+    background-color: pink
+}
